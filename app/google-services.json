@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714294853510",
+    "project_id": "rgb-tester",
+    "storage_bucket": "rgb-tester.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714294853510:android:76601a05f45075c8d73607",
+        "android_client_info": {
+          "package_name": "com.hugodev.rgbtester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714294853510-7o72k6asqh7fd5i7te31ur11tq490kf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR5O8wdHobfIK-_SOSnoh4RTf23yhU_-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714294853510-7o72k6asqh7fd5i7te31ur11tq490kf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
