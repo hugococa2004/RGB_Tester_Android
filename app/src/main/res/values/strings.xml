@@ -4,14 +4,14 @@
     <string name="rgb_tester"><b>RGB Tester</b></string>
     <string name="rgb_expli">RGB Tester, Qu\'es-ce que c\'est ?</string>
     <string name="rgb_sous_expli">RGB Tester est une application qui vous permet de vérifier si votre écran affiche correctement les couleurs primaires (Rouge, Vert, et Bleu)</string>
-    <string name="banner_ad_unit_id"> ca-app-pub-3940256099942544/6300978111 </string>
+    <string name="banner_ad_unit_id"> ca-app-pub-1590782086841194/4820199066 </string>
     <string name="d_marrer_le_test">Démarrer le test</string>
     <string name="appuyez_sur_le_bouton_ci_dessus_pour_d_marrer_le_test">Appuyez sur le bouton ci-dessus pour démarrer le test</string>
     <string name="attentionz">Attention !</string>
     <string name="le_test_s_effectue">Le test s\'effectue </string>
     <string name="manuellement">manuellement</string>
-    <string name="title_activity_fullscreen_test">FullscreenTest</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
-    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="ad_unit_id"> ca-app-pub-1590782086841194/8366893530 </string>
+    <string name="test">Test</string>
+    <string name="termin">terminé</string>
+    <string name="appuyez_ici_pour_revenir_l_accueil">Appuyez ici pour revenir à l\'accueil</string>
 </resources>
