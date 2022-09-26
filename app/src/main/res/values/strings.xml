@@ -10,4 +10,7 @@
     <string name="attentionz">Attention !</string>
     <string name="le_test_s_effectue">Le test s\'effectue </string>
     <string name="manuellement">manuellement</string>
+    <string name="title_activity_fullscreen_test">FullscreenTest</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>

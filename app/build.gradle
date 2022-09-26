@@ -27,6 +27,9 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
     namespace 'com.hugodev.rgbtester'
+    buildFeatures {
+        viewBinding true
+    }
 }
 
 dependencies {
